@@ -7,4 +7,9 @@
 ##[href="https://r.advg.agency/t/mdr3b"]
 ##.link
 ##.advert-header
-
+||animevost.org/brending/23.png
+||animevost.org/templates/AnimeVostNext5/images/body_bg.png
+||animevost.org/*.png
+##[href^="https://espritgames.ru/eldenquest/promo/frost/"]
+##.headbgnewfour
+###wrap
